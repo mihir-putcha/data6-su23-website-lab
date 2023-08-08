@@ -6,3 +6,4 @@ I am an incoming freshman in the SEED Scholars Honors program at UC Berkeley stu
 [Click here to check out the SEED Scholars Program!](https://seedscholars.berkeley.edu)
 
 <img src="SEED Logo Email Signature.png" style="width:50%; margin:auto; display:block">
+
